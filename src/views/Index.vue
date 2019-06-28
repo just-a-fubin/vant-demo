@@ -11,7 +11,7 @@
 </template>
 
 <script>
-import Home from './home'
+import Home from './index/home'
 export default {
   name: 'index',
   components: { Home },
