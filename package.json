@@ -28,7 +28,7 @@
     "express-mockjs": "^0.4.9",
     "node-sass": "^4.12.0",
     "sass-loader": "^7.1.0",
-    "vant": "^2.0.2",
+    "vant": "^2.1.8",
     "vue-template-compiler": "^2.6.10"
   },
   "eslintConfig": {
